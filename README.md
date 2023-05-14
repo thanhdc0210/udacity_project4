@@ -1,4 +1,8 @@
+Badge: https://circleci.com/gh/thanhdc0210/udacity_project4.svg?style=svg
 
+CircleCI: https://app.circleci.com/pipelines/github/thanhdc0210/udacity_project4
+
+Github: https://github.com/thanhdc0210/udacity_project4
 
 ## Project Overview
 
